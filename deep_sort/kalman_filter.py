@@ -1,4 +1,11 @@
-# vim: expandtab:ts=4:sw=4
+'''
+    File name: kalman_filter.py
+    Author: nwojke 
+    Date last modified: 10/08/2020
+    Python Version: 3.8
+    Website: https://github.com/nwojke/deep_sort
+'''
+
 import numpy as np
 import scipy.linalg
 

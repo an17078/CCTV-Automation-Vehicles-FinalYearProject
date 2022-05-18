@@ -1,3 +1,11 @@
+'''
+    File name: save_model.py
+    Author: hunglc007 
+    Date last modified: 10/08/2020
+    Python Version: 3.8
+    Website: https://github.com/hunglc007/tensorflow-yolov4-tflite
+'''
+
 import tensorflow as tf
 from absl import app, flags, logging
 from absl.flags import FLAGS
